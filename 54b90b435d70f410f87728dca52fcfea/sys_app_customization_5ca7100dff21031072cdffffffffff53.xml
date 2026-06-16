@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_customization">
+    <sys_app_customization action="INSERT_OR_UPDATE">
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-16 07:03:38</sys_created_on>
+        <sys_id>5ca7100dff21031072cdffffffffff53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-16 07:03:38</sys_updated_on>
+        <vendor_app display_value="Asset Management Workspace">54b90b435d70f410f87728dca52fcfea</vendor_app>
+        <vendor_app_version>8.900.0</vendor_app_version>
+        <version>1.0.0</version>
+        <war_version>Development Version</war_version>
+    </sys_app_customization>
+</record_update>
