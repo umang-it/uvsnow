@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="sn_tesitng_msg.admin" name="sn_tesitng_msg.admin">d49e319d9325c750370ef070ed03d613</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>umang.verma@snc</sys_created_by>
+        <sys_created_on>2026-06-17 09:11:52</sys_created_on>
+        <sys_id>2c9e319d9325c750370ef070ed03d618</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d49e319d9325c750370ef070ed03d613</sys_name>
+        <sys_package display_value="Tesitng MSG" source="sn_tesitng_msg">1c9efd5d9325c750370ef070ed03d6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tesitng MSG">1c9efd5d9325c750370ef070ed03d6cd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2c9e319d9325c750370ef070ed03d618</sys_update_name>
+        <sys_updated_by>umang.verma@snc</sys_updated_by>
+        <sys_updated_on>2026-06-17 09:11:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

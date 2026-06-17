@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>7+Poef2fvyT8CfvxAQ7Bu/ut+KXASYapKO6mf9Eek4o=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>sn_tesitng_msg.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>umang.verma@snc</sys_created_by>
+        <sys_created_on>2026-06-17 09:11:52</sys_created_on>
+        <sys_id>d49e319d9325c750370ef070ed03d613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_tesitng_msg.admin</sys_name>
+        <sys_package display_value="Tesitng MSG" source="sn_tesitng_msg">1c9efd5d9325c750370ef070ed03d6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tesitng MSG">1c9efd5d9325c750370ef070ed03d6cd</sys_scope>
+        <sys_update_name>sys_user_role_d49e319d9325c750370ef070ed03d613</sys_update_name>
+        <sys_updated_by>umang.verma@snc</sys_updated_by>
+        <sys_updated_on>2026-06-17 09:11:52</sys_updated_on>
+    </sys_user_role>
+</record_update>
